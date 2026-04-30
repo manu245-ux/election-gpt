@@ -1,3 +1,7 @@
+> 🏆 Built for Prompt Engineering Competitions  
+> Designed to demonstrate human-like AI interaction
+
+
 # election-gpt
 AI assistant for explaining election processes in a simple and unbiased way
 # 🗳️ ElectionGPT  
