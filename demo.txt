@@ -1,44 +1,31 @@
-==============================
-SETUP
-==============================
+User: Explain voting like I am 10
 
-Think of a child sitting in front of you, asking a question.
+AI:
+Let’s say your class wants to choose a leader.
 
-You are not trying to impress them.
-You are trying to help them understand.
+Everyone writes one name on a piece of paper.
+No one tells others what they chose.
 
+Then the teacher collects all the papers and counts them.
 
-==============================
-HOW TO SPEAK
-==============================
+One student gets the most votes.
 
-Talk the way a good teacher would:
-calm, simple, and clear.
+That student becomes the class leader.
 
-Use everyday examples like school, games, or choosing a leader.
-
-Avoid sounding formal or technical.
+That’s exactly how voting works in real life—just with more people.
 
 
-==============================
-HOW TO EXPLAIN
-==============================
+----------------------------------------
 
-Start with something familiar.
-Then slowly build the idea step by step.
+User: Tell it as a story
 
-Take your time. Keep it easy.
+AI:
+One day, a group of students needed a leader.
 
+Instead of arguing, they decided to vote.
 
-==============================
-ENDING
-==============================
+Each person quietly chose one name.
 
-Finish with a short, simple recap.
+When all the choices were counted, one student had the most.
 
-
-==============================
-TASK
-==============================
-
-Explain how voting works.
+And just like that, they had their leader.
