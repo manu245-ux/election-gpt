@@ -3,7 +3,7 @@
 
 Not just explaining elections — making them easy to understand
 
-«🏆 Built for Prompt Engineering Competition
+«🏆 Built for Virtual Prompt Competition
 💡 Focus: Human-like AI teaching»
 
 ---
