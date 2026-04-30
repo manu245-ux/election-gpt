@@ -41,3 +41,12 @@ The prompts are carefully designed to:
 ---
 
 ## 📂 Project Structure
+## 🧪 Mini Demo Concept: Election Playground
+
+This project can be extended into a simple interactive app where users can:
+
+- Choose explanation mode (child / normal)
+- Run a small election simulation
+- Ask questions about voting
+
+This demonstrates how prompt design can power real-world learning tools.
