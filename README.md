@@ -41,12 +41,30 @@ The prompts are carefully designed to:
 ---
 
 ## 📂 Project Structure
-## 🧪 Mini Demo Concept: Election Playground
+## 🧪 Mini Demo Idea: Election Playground
 
-This project can be extended into a simple interactive app where users can:
+This project can be turned into a simple interactive learning tool.
 
-- Choose explanation mode (child / normal)
-- Run a small election simulation
-- Ask questions about voting
+Users can:
 
-This demonstrates how prompt design can power real-world learning tools.
+👶 **Explain Like I'm 10**  
+Get simple, child-friendly explanations using real-life examples.
+
+🎮 **Election Simulator**  
+See how voting works with a small group of candidates and voters.
+
+❓ **Ask a Question**  
+Ask anything about elections and get clear, unbiased answers.
+
+---
+
+### 💡 Example Interaction
+
+User selects: Explain Like I'm 10  
+
+AI:  
+"Imagine your class wants to pick a class leader…"
+
+---
+
+This shows how prompt design can be used to build real educational tools without needing complex code.
