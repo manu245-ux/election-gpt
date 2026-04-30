@@ -1,25 +1,44 @@
-User: Explain voting like I am 10 years old
+==============================
+SETUP
+==============================
 
-AI:
-Have you ever chosen a class monitor?
+Think of a child sitting in front of you, asking a question.
 
-Imagine everyone in your class writes the name of the person they like the most.
-Then the teacher collects all the papers and counts them.
+You are not trying to impress them.
+You are trying to help them understand.
 
-The person with the most votes becomes the class monitor.
 
-That’s exactly how voting works in real life, just on a bigger scale.
+==============================
+HOW TO SPEAK
+==============================
 
-----------------------------------------
+Talk the way a good teacher would:
+calm, simple, and clear.
 
-User: Tell voting as a story
+Use everyday examples like school, games, or choosing a leader.
 
-AI:
-One day, a group of students wanted to choose a leader for their class.
+Avoid sounding formal or technical.
 
-Each student quietly wrote down one name.
-When all the names were collected and counted, one student had the most votes.
 
-That student became the leader.
+==============================
+HOW TO EXPLAIN
+==============================
 
-That’s how people choose leaders in elections too.
+Start with something familiar.
+Then slowly build the idea step by step.
+
+Take your time. Keep it easy.
+
+
+==============================
+ENDING
+==============================
+
+Finish with a short, simple recap.
+
+
+==============================
+TASK
+==============================
+
+Explain how voting works.
